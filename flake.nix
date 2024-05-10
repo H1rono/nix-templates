@@ -9,6 +9,10 @@
         path = ./default;
         description = "basic";
       };
+      marp = {
+        path = ./marp;
+        description = "marp slide";
+      };
     };
   };
 }
